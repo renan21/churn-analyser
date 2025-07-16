@@ -8,7 +8,7 @@ import pandas as pd
 
 def main():
     # Caminhos dos dados e saída
-    caminho_csv = "D:/Renan/Documents/Mestrado/Inteligencia artificial/Artigo/churn_analyser/data/base_churn_treinamento_final_2.csv"
+    caminho_csv = "D:/Renan/Documents/Mestrado/Inteligencia artificial/Artigo/churn_analyser/data/base_churn_treinamento_final.csv"
     pasta_saida_sarimax = "D:/Renan/Documents/Mestrado/Inteligencia artificial/Artigo/churn_analyser/resultados_sarimax"
     pasta_saida_lag = "D:/Renan/Documents/Mestrado/Inteligencia artificial/Artigo/churn_analyser/resultados_lag_sarimax"
 
